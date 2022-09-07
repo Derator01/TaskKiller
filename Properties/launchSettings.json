@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TaskKiller": {
+      "commandName": "Project",
+      "commandLineArgs": "100 winserv.exe"
+    }
+  }
+}
